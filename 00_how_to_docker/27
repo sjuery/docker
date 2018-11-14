@@ -1,0 +1,2 @@
+docker service ps [name] <- get replica ID.
+docker service logs ez8rc1v5bmnt -f
